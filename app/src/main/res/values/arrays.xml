@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sp1">
+        <item>Lựa chọn 1</item>
+        <item>Lựa chọn 2</item>
+        <item>Lựa chọn 3</item>
+        <item>Lựa chọn 4</item>
+        <item>Lựa chọn 5</item>
+    </array>
+
+    <array name="group">
+        <item>Nhóm 8</item>
+        <item>Nhóm 9</item>
+        <item>Nhóm 10</item>
+        <item>Nhóm CLC</item>
+    </array>
+
+    <array name="Subject">
+        <item>Toán</item>
+        <item>Nhập môn CNPM</item>
+        <item>IOT và ứng dụng</item>
+        <item>Lập trình Android</item>
+    </array>
+
+</resources>

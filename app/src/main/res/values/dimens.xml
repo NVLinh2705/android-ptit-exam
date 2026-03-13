@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bgCornerRadius">22dp</dimen>
+    <dimen name="btnCornerRadius">10dp</dimen>
+    <dimen name="bgCornerRadius2">40dp</dimen>
+    <dimen name="menuItemCornerRadius">5dp</dimen>
+    <dimen name="textSize1">32sp</dimen>
+    <dimen name="textSize2">26sp</dimen>
+    <dimen name="textSize3">18sp</dimen>
+    <dimen name="textSize4">16sp</dimen>
+    <dimen name="textSize5">12sp</dimen>
+    <dimen name="textSize6">14sp</dimen>
+    <dimen name="textSize7">40sp</dimen>
+    <dimen name="margin1">16dp</dimen>
+    <dimen name="margin2">25dp</dimen>
+    <dimen name="margin3">8dp</dimen>
+    <dimen name="margin4">4dp</dimen>
+    <dimen name="margin6">2dp</dimen>
+    <dimen name="margin5">12dp</dimen>
+    <dimen name="margin7">6dp</dimen>
+    <dimen name="margin8">70dp</dimen>
+    <dimen name="margin9">10dp</dimen>
+    <dimen name="padding1">16dp</dimen>
+    <dimen name="padding2">10dp</dimen>
+    <dimen name="padding3">20dp</dimen>
+    <dimen name="padding4">50dp</dimen>
+    <dimen name="padding5">4dp</dimen>
+    <dimen name="padding6">6dp</dimen>
+    <dimen name="layoutHeight1">38dp</dimen>
+    <dimen name="layoutHeight2">50dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+    <dimen name="elevation">3dp</dimen>
+    <dimen name="minHeight">70dp</dimen>
+    <dimen name="topicIconWidth">25dp</dimen>
+</resources>

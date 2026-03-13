@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/detailMenuItem"
+        android:title="Thông tin thêm"></item>
+
+    <item
+        android:id="@+id/themeItem"
+        android:title="Theme">
+        <menu>
+            <item
+                android:id="@+id/lightTheme"
+                android:title="Light" />
+            <item
+                android:id="@+id/darkTheme"
+                android:title="Dark" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/exitItem"
+        android:title="Exit"></item>
+</menu>

@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidPTIT" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorBlue5</item>
+        <item name="colorAccent">@color/colorBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorBlue</item>
+        <item name="colorSecondaryVariant">@color/colorBlue5</item>
+        <item name="colorOnSecondary">@color/colorBlue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorBlue</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.AndroidPTIT" parent="Base.Theme.AndroidPTIT" />
+
+    <style name="Theme.NoActionBar.AndroidPTIT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorBlue5</item>
+        <item name="colorAccent">@color/colorBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorBlue</item>
+        <item name="colorSecondaryVariant">@color/colorBlue5</item>
+        <item name="colorOnSecondary">@color/colorBlue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorBlue</item>
+    </style>
+
+    <style name="Theme.AndroidPTIT_App" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorBlue5</item>
+        <item name="colorAccent">@color/colorBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorBlue</item>
+        <item name="colorSecondaryVariant">@color/colorBlue5</item>
+        <item name="colorOnSecondary">@color/colorBlue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorBlue</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MP.Theme.Widget.PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:itemBackground">@drawable/popup_menu_item_bg</item>
+        <item name="android:textColor">@color/cardview_dark_background</item>
+        <item name="android:dropDownHorizontalOffset">50dip</item>
+        <item name="android:dropDownVerticalOffset">50dip</item>
+    </style>
+</resources>

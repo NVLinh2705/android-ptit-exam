@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryButton">#EA3C12</color>
+    <color name="colorPrimary">#EA3C12</color>
+    <color name="colorPrimaryDark">#ba68c8</color>
+    <color name="colorAccent">#EA3C12</color>
+    <color name="colorPink">#fc0390</color>
+    <color name="colorOrange">#EA7F01</color>
+
+    <color name="colorNightMode">#FFFFFF</color>
+    <color name="colorCardNightMode">#FFFFFF</color>
+    <color name="colorGrey">#EEEEEE</color>
+
+    <color name="colorYellow2">#F8BC0A</color>
+
+    <color name="colorGray2">#98AFC7</color>
+    <color name="colorBlue2">#0099ff</color>
+    <color name="colorBlue3">#85B8DA</color>
+    <color name="colorBlue4">#DCDFE1</color>
+    <color name="colorOrange2">#ff6600</color>
+    <color name="colorGreen2">#00cc66</color>
+    <color name="colorGreen3">#4CAF50</color>
+
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="blackColor">#000000</color>
+    <color name="colorGray3">#2B2A2A</color>
+
+    <color name="colorPurple">#FF33FF</color>
+    <color name="colorPurple2">#AC51AD</color>
+    <color name="colorEdittextBackground">#756c6c</color>
+    <color name="colorYellow">#B38809</color>
+    <color name="colorBlue">#4C39CC</color>
+    <color name="colorBlue5">#656FD9</color>
+    <color name="colorBlue6">#4A67E4</color>
+    <color name="colorBlue7">#2E6DF4</color>
+    <color name="colorBlue8">#728FCC</color>
+    <color name="colorBlue9">#ACDCFF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGreen">#00EE00</color>
+    <color name="backgroundColor">#F2F1F6</color>
+
+    <color name="menu_item_default">#FFFFFF</color>
+    <color name="menu_item_pressed">#E0E0E0</color>
+
+    <!-- Trong suốt hoàn toàn -->
+    <color name="transparent">#FFFFFFFF</color>
+</resources>
