@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".AddRoomActivity">
+    tools:context=".view.AddRoomActivity">
 
     <!-- Ma Phong will be auto-generated, so this input field is removed -->
 

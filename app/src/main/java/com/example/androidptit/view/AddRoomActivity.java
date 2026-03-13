@@ -1,4 +1,4 @@
-package com.example.androidptit;
+package com.example.androidptit.view;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -13,7 +13,6 @@ import com.example.androidptit.dao.RoomDAO;
 import com.example.androidptit.databinding.ActivityAddRoomBinding;
 import com.example.androidptit.model.Room;
 
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class AddRoomActivity extends AppCompatActivity {
