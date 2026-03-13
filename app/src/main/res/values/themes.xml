@@ -30,7 +30,7 @@
         <item name="android:statusBarColor">@color/colorBlue</item>
     </style>
 
-    <style name="Theme.AndroidPTIT_App" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Theme.AndroidPTIT_App" parent="Theme.Material3.DayNight">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorBlue</item>
         <item name="colorPrimaryDark">@color/colorBlue5</item>
@@ -45,6 +45,7 @@
     </style>
 
 <!--    <style name="MP.Theme.Widget.PopupMenu" parent="Widget.AppCompat.PopupMenu">-->
+<!--        <item name="android:itemBackground">@drawable/popup_menu_item_bg</item>-->
 <!--        <item name="android:textColor">@color/cardview_dark_background</item>-->
 <!--        <item name="android:dropDownHorizontalOffset">50dip</item>-->
 <!--        <item name="android:dropDownVerticalOffset">50dip</item>-->
