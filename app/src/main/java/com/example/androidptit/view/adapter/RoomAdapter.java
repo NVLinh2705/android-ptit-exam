@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.androidptit.databinding.ItemRoomBinding;
 import com.example.androidptit.interfaces.listener.OnItemListener;
-import com.example.androidptit.model.Room;
 
 
 import java.text.NumberFormat;

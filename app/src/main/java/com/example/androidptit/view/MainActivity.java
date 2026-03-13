@@ -3,18 +3,14 @@ package com.example.androidptit.view;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.androidptit.dao.RoomDAO;
 import com.example.androidptit.databinding.ActivityMainBinding;
 import com.example.androidptit.interfaces.listener.OnItemListener;
-import com.example.androidptit.model.Room;
 import com.example.androidptit.view.adapter.RoomAdapter;
 
 import java.util.List;
