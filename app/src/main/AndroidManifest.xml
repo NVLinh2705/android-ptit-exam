@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidPTIT">
         <activity
-            android:name=".view.HomeActivity"
+            android:name=".view.AddRoomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.EditRoomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
             android:theme="@style/Theme.NoActionBar.AndroidPTIT">
