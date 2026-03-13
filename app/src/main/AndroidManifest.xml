@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidPTIT">
         <activity
+            android:name=".view.EditRoomActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.HomeActivity"
             android:exported="true"
             android:launchMode="singleTask"
